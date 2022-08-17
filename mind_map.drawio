@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T02:04:20.652Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Zp1jBI3ASCGNRMXZE7vD" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-17T02:07:47.155Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3HmGtueSfQtMj1_lVGf2" version="20.2.3" type="github">
   <diagram id="l6aqIKa7-YMKTYHHmrUL" name="Page-1">
     <mxGraphModel dx="2268" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,13 +34,13 @@
         <mxCell id="TVAkchOufUscBztfs9pw-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-3" target="TVAkchOufUscBztfs9pw-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-3" target="TVAkchOufUscBztfs9pw-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TVAkchOufUscBztfs9pw-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-3" target="TVAkchOufUscBztfs9pw-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVAkchOufUscBztfs9pw-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-3" target="TVAkchOufUscBztfs9pw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-3" target="TVAkchOufUscBztfs9pw-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVAkchOufUscBztfs9pw-3" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Физика&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -58,62 +58,131 @@
         <mxCell id="TVAkchOufUscBztfs9pw-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-15" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Классическая механика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-17" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Электромагнетизм&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="70" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-19" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Термодинамика и Статистическая физика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="140" width="190" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="TVAkchOufUscBztfs9pw-21" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Квантовая механика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVAkchOufUscBztfs9pw-23" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Теория относительности&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="290" width="140" height="60" as="geometry" />
+          <mxGeometry x="-250" y="490" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-26" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Законы Ньютона&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-270" width="120" height="60" as="geometry" />
+        <mxCell id="TVAkchOufUscBztfs9pw-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-130" y="-390" width="900" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-27" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Лагранжева механика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-270" width="120" height="60" as="geometry" />
+        <mxCell id="TVAkchOufUscBztfs9pw-15" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Классическая механика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-54">
+          <mxGeometry x="310" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-28" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Гамильтонова механика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-270" width="120" height="60" as="geometry" />
+        <mxCell id="TVAkchOufUscBztfs9pw-26" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Законы Ньютона&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-54">
+          <mxGeometry x="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-29" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Теория хаоса&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-270" width="120" height="60" as="geometry" />
+        <mxCell id="TVAkchOufUscBztfs9pw-27" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Лагранжева механика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-54">
+          <mxGeometry x="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-34" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Гидродинамика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-270" width="120" height="60" as="geometry" />
+        <mxCell id="TVAkchOufUscBztfs9pw-28" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Гамильтонова механика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-54">
+          <mxGeometry x="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-35" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Геофизическая гидродинамика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="-270" width="120" height="60" as="geometry" />
+        <mxCell id="TVAkchOufUscBztfs9pw-29" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Теория хаоса&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-54">
+          <mxGeometry x="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVAkchOufUscBztfs9pw-38" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Механика сплошных сред&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-270" width="120" height="60" as="geometry" />
+        <mxCell id="TVAkchOufUscBztfs9pw-34" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Гидродинамика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-54">
+          <mxGeometry x="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-35" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Геофизическая гидродинамика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-54">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-38" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Механика сплошных сред&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-54">
+          <mxGeometry x="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-54" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-54" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-54" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-54" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-54" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-54" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-54" source="TVAkchOufUscBztfs9pw-15" target="TVAkchOufUscBztfs9pw-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-500" y="-400" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-17" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Электромагнетизм&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-55">
+          <mxGeometry x="210" y="190" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-40" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Электричество&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-55">
+          <mxGeometry x="15" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-41" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Магнитостатика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-55">
+          <mxGeometry y="140" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-42" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Магнетизм&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-55">
+          <mxGeometry x="15" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-43" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Уравнения Максвелла&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-55">
+          <mxGeometry x="15" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-44" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Электростатика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-55">
+          <mxGeometry x="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-45" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Электродинамика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-55">
+          <mxGeometry y="350" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-46" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Магнитная гидродинамика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-55">
+          <mxGeometry x="15" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-48" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-55" source="TVAkchOufUscBztfs9pw-17" target="TVAkchOufUscBztfs9pw-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-55" source="TVAkchOufUscBztfs9pw-17" target="TVAkchOufUscBztfs9pw-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-55" source="TVAkchOufUscBztfs9pw-17" target="TVAkchOufUscBztfs9pw-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-55" source="TVAkchOufUscBztfs9pw-17" target="TVAkchOufUscBztfs9pw-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.008;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TVAkchOufUscBztfs9pw-55" source="TVAkchOufUscBztfs9pw-17" target="TVAkchOufUscBztfs9pw-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-55" source="TVAkchOufUscBztfs9pw-17" target="TVAkchOufUscBztfs9pw-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-55" source="TVAkchOufUscBztfs9pw-17" target="TVAkchOufUscBztfs9pw-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-480" y="100" width="370" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-19" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Термодинамика и Статистическая физика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-63">
+          <mxGeometry x="180" y="50" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-57" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Тепловая машина&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-63">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-63" source="TVAkchOufUscBztfs9pw-19" target="TVAkchOufUscBztfs9pw-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-58" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Молекулярно-кинетическая теория&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-63">
+          <mxGeometry y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-63" source="TVAkchOufUscBztfs9pw-19" target="TVAkchOufUscBztfs9pw-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-59" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;Неравновесная термодинамика&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TVAkchOufUscBztfs9pw-63">
+          <mxGeometry y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVAkchOufUscBztfs9pw-62" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TVAkchOufUscBztfs9pw-63" source="TVAkchOufUscBztfs9pw-19" target="TVAkchOufUscBztfs9pw-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
