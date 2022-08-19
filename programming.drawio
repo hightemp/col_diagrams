@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T11:03:28.762Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xSycZ7REA4fE5ltPnkZ4" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T11:53:47.198Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="j4QxT02CYtNN-xjK1KAm" version="20.2.5" type="github">
   <diagram id="0yyiyOh7NrHnAMOzw_w6" name="Page-1">
     <mxGraphModel dx="2268" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,6 +17,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PY4sBFLqDkRx8ysNLFZe-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PY4sBFLqDkRx8ysNLFZe-1" target="PY4sBFLqDkRx8ysNLFZe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PY4sBFLqDkRx8ysNLFZe-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PY4sBFLqDkRx8ysNLFZe-1" target="PY4sBFLqDkRx8ysNLFZe-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PY4sBFLqDkRx8ysNLFZe-1" value="Программирование" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;" vertex="1" parent="1">
@@ -48,6 +51,15 @@
         </mxCell>
         <mxCell id="PY4sBFLqDkRx8ysNLFZe-16" value="Хэширование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PY4sBFLqDkRx8ysNLFZe-18" value="Профилирование и тесты ПО" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PY4sBFLqDkRx8ysNLFZe-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PY4sBFLqDkRx8ysNLFZe-19" target="PY4sBFLqDkRx8ysNLFZe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PY4sBFLqDkRx8ysNLFZe-19" value="Проверки гипотез" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
